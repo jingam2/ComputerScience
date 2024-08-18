@@ -1,9 +1,9 @@
 CS ( think about the principles of computer science )
 
-compiler
+Compiler
 
-computer structure, operating system, 
+Computer Structure, Operating System 
 
-network 
+Network 
 
-terminal, shell
+Terminal, Shell
